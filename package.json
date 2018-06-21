@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/DiegoSVilla/SteamPunkProj/issues"
   },
-  "homepage": "https://github.com/DiegoSVilla/SteamPunkProj#readme"
+  "homepage": "https://github.com/DiegoSVilla/SteamPunkProj#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3"
+  }
 }
