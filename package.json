@@ -1,0 +1,23 @@
+{
+  "name": "steam_punk_proj",
+  "version": "0.1.0",
+  "description": "Forum/jogo steampunk",
+  "main": "app.js",
+  "scripts": {
+    "test": "GearsAreGrinding"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoSVilla/SteamPunkProj.git"
+  },
+  "keywords": [
+    "node",
+    "steamPunk"
+  ],
+  "author": "Diego S Villalobos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiegoSVilla/SteamPunkProj/issues"
+  },
+  "homepage": "https://github.com/DiegoSVilla/SteamPunkProj#readme"
+}
